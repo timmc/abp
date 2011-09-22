@@ -53,10 +53,15 @@ http://graphics8.nytimes.com/images/article/functions/toolsicon_anim.gif
 ||wibiya.com^$third-party
 youtube.com###quicklist
 cbsnews.com###storyStrip
+! Imgur keeps changing their markup...
 imgur.com###awesome-images
 imgur.com###awesome-bar
+imgur.com##.right-side > .thumbnails
+imgur.com###content.inside .right .panel
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
+||library.municode.com/scripts/ZeroClipboard.js
+flickr.com##.spaceball
 !----------------- Advert -----------------!
 uvacreditunion.org#a(href^=javascript:displayAd2)
 deviantart.com#a(href=http://my.deviantart.com/services/?page=subscription)
@@ -66,6 +71,8 @@ tumblr.com#a(href^=http://refer.ccbill.com/)
 */singlead/*
 ||cpawins.com^$third-party
 !---------------------- Social media crap ------------------------!
+||twimg.com^
+@@||twimg.com^$domain=twitter.com
 ||friendconnect.gmodules.com^
 ||facebook.com$domain=~facebook.com
 ||fbcdn.net$domain=~facebook.com
@@ -76,6 +83,8 @@ tumblr.com#a(href^=http://refer.ccbill.com/)
 |http://www.google.com/buzz/*$third-party
 ||addtoany.com^$third-party
 ||buzzfeed.com^$third-party
+|https://apis.google.com/js/plusone.js
+||plusone.google.com^
 !---------------------- Tracking ------------------------!
 ||google-analytics.com^$third-party
 ||revsci.net^
