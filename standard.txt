@@ -57,7 +57,7 @@ cbsnews.com###storyStrip
 imgur.com###awesome-images
 imgur.com###awesome-bar
 imgur.com##.right-side > .thumbnails
-imgur.com###content.inside .right .panel
+imgur.com###content .right .panel
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
 ||library.municode.com/scripts/ZeroClipboard.js
