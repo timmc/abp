@@ -53,6 +53,10 @@ http://graphics8.nytimes.com/images/article/functions/toolsicon_anim.gif
 ||wibiya.com^$third-party
 youtube.com###quicklist
 cbsnews.com###storyStrip
+tumblr.com###tumblr_teaser_follow
+tumblr.com###teaser_iframe_container
+tumblr.com###tumblr_controls
+linkedin.com###suggested-endorsements
 !----------------- Distractions --------------!
 ! Imgur keeps changing their markup...
 imgur.com###side-gallery
