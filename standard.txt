@@ -53,11 +53,12 @@ http://graphics8.nytimes.com/images/article/functions/toolsicon_anim.gif
 ||wibiya.com^$third-party
 youtube.com###quicklist
 cbsnews.com###storyStrip
+!----------------- Distractions --------------!
 ! Imgur keeps changing their markup...
-imgur.com###awesome-images
-imgur.com###awesome-bar
-imgur.com##.right-side > .thumbnails
-imgur.com###content .right .panel
+imgur.com###side-gallery
+imgur.com###extended-imagelist .posts
+imgur.com###imagelist.home-gallery .cards .post
+imgur.com###top-comments
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
 ||library.municode.com/scripts/ZeroClipboard.js
