@@ -61,7 +61,8 @@ linkedin.com###suggested-endorsements
 ! Imgur keeps changing their markup...
 imgur.com###side-gallery
 imgur.com###extended-imagelist .posts
-imgur.com###imagelist.home-gallery .cards .post
+! Block main page gallery but not search results
+imgur.com##.sentence-sorting + .panel > #imagelist.home-gallery
 imgur.com###top-comments
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
