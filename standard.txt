@@ -64,6 +64,7 @@ imgur.com###extended-imagelist .posts
 ! Block main page gallery but not search results
 imgur.com##.sentence-sorting + .panel > #imagelist.home-gallery
 imgur.com###top-comments
+stackoverflow.com###hot-network-questions
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
 ||library.municode.com/scripts/ZeroClipboard.js
