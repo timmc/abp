@@ -4,8 +4,6 @@
 !
 !----------------- Misc/Uncat ------------------!
 |http://pp.free.fr/*
-*/onlineopinion*$script
-*/opinionlab*$script
 ||tweetmeme.com^
 ||cim.meebo.com^
 ||dt00.net^
@@ -95,7 +93,6 @@ tumblr.com#a(href^=http://refer.ccbill.com/)
 ||plusone.google.com^
 !---------------------- Tracking ------------------------!
 ||google-analytics.com^$third-party
-||revsci.net^
 ||edge.quantserve.com
 ||pixel.quantserve.com
 ||hitbox.com^
