@@ -55,6 +55,8 @@ tumblr.com###tumblr_teaser_follow
 tumblr.com###teaser_iframe_container
 tumblr.com###tumblr_controls
 linkedin.com###suggested-endorsements
+! FFS Wikipedia, don't act so desperate, you're doing fine.
+wikipedia.org###centralNotice.cn-fundraising
 !----------------- Distractions --------------!
 ! Imgur keeps changing their markup...
 imgur.com###side-gallery
@@ -64,6 +66,7 @@ imgur.com##.sentence-sorting + .panel > #imagelist.home-gallery
 imgur.com###top-comments
 stackoverflow.com###hot-network-questions
 stackexchange.com###hot-network-questions
+lifehacker.com##.trending-module
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
 ||library.municode.com/scripts/ZeroClipboard.js
@@ -100,4 +103,6 @@ tumblr.com#a(href^=http://refer.ccbill.com/)
 ||statcounter.com^$third-party
 ||b.scorecardresearch.com^$third-party
 ||technorati.com^$third-party,script
+!---------------------- Adblock blockers ----------------!
+www.wired.com###veil
 
