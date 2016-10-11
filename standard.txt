@@ -92,8 +92,13 @@ tumblr.com#a(href^=http://refer.ccbill.com/)
 |http://www.google.com/buzz/*$third-party
 ||addtoany.com^$third-party
 ||buzzfeed.com^$third-party
-|https://apis.google.com/js/plusone.js
 ||plusone.google.com^
+||linkedin.com^$third-party
+||apis.google.com/js/plusone.js
+||pinterest.com^$third-party
+||reddit.com/static/button/button1.js?*
+||stumbleupon.com^$third-party
+||gravatar.com^$third-party
 !---------------------- Tracking ------------------------!
 ||google-analytics.com^$third-party
 ||edge.quantserve.com
@@ -105,4 +110,5 @@ tumblr.com#a(href^=http://refer.ccbill.com/)
 ||technorati.com^$third-party,script
 !---------------------- Adblock blockers ----------------!
 www.wired.com###veil
-
+!---------------------- A few allowed ads ---------------!
+@@||projectwonderful.com^$image,ping
