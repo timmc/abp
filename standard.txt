@@ -3,54 +3,21 @@
 ! Expires: 5 days (update frequency)
 !
 !----------------- Misc/Uncat ------------------!
-|http://pp.free.fr/*
 ||tweetmeme.com^
 ||cim.meebo.com^
-||dt00.net^
-||xxxblackbook.com^
 ||ordienetworks.com^$third-party
 /js/app/article/upNext.js|$domain=nytimes.com,script
 ||outboundlink.net^$third-party
 ||outboundlink.me^$third-party
-||ircslackers.net^$third-party
 ||widgets.digg.com^$third-party
 ||outbrain.com^$third-party
 ||codebaby.com^$domain=amtrak.com
-||pcash.imlive.com^
 ||shopping.com^$third-party
-||getstuff.howstuffworks.com^
-|http://www.apture.com/js/*$third-party
-|http://www.polls.newsvine.com/_vine/js/pierre?*wetbar|
-||collarity.com^$third-party
-||loomia.com^$third-party
-||adscendmedia.com^$third-party
-||dt07.net^$third-party
-||pluckit.demandmedia.com^$third-party
-||mybloglog.com^$third-party
-*/lib/facebook/*$domain=nytimes.com,script
-||2leep.com^$third-party
-|http://apps.thefencepost.com/utils/c2/app/v2/index.php?do=topJobs
-||toptenreviews.com^$third-party
 maps.google.com##div#main_map>div#mclip
-txtdrop.com#div(body)
-nytimes.com##.articleTools>.toolsContainer
-www.periodictable.com#a(href^=../../Posters/)
-gigapedia.com###esn2
-reddit.com#iframe(ad-frame)
-cbsnews.com###cbsSMPB
-huffingtonpost.com###service_bottom_bar
-livejournal.com##.b-repost-item
-reuters.com###trackbar
-###wpcombar
-blogs.denverpost.com###myhatwrap
 !----------------- Visual annoyances -----------------!
 |http://l.yimg.com/g/images/spaceball.gif
-http://www.transmission-x.com/banner/tx-animated*.gif
-http://graphics8.nytimes.com/images/article/functions/toolsicon_anim.gif
-|http://media.economist.com/javascript/6.1.14/thirdparty/slider/slider.js
 ||wibiya.com^$third-party
 youtube.com###quicklist
-cbsnews.com###storyStrip
 tumblr.com###tumblr_teaser_follow
 tumblr.com###teaser_iframe_container
 tumblr.com###tumblr_controls
@@ -66,7 +33,6 @@ imgur.com##.sentence-sorting + .panel > #imagelist.home-gallery
 imgur.com###top-comments
 stackoverflow.com###hot-network-questions
 stackexchange.com###hot-network-questions
-lifehacker.com##.trending-module
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
 ||library.municode.com/scripts/ZeroClipboard.js
@@ -74,11 +40,6 @@ flickr.com##.spaceball
 !----------------- Advert -----------------!
 uvacreditunion.org#a(href^=javascript:displayAd2)
 deviantart.com#a(href=http://my.deviantart.com/services/?page=subscription)
-tumblr.com#a(href^=http://refer.ccbill.com/)
-*/banners/popup_*
-|http://magazine.wired.com/ecom/targetedOffer.jsp?*
-*/singlead/*
-||cpawins.com^$third-party
 !---------------------- Social media crap ------------------------!
 ||twimg.com^
 @@||twimg.com^$domain=twitter.com
