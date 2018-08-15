@@ -1,0 +1,6 @@
+[Adblock Plus 1.1]
+! Distracting "Also see" or "Now look at" or "Frequently viewed" lists
+! Expires: 10 days (update frequency)
+!
+! StackOverflow and friends
+##hot-network-questions
