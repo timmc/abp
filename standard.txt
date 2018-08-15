@@ -71,5 +71,7 @@ deviantart.com#a(href=http://my.deviantart.com/services/?page=subscription)
 ||technorati.com^$third-party,script
 !---------------------- Adblock blockers ----------------!
 www.wired.com###veil
+!---------------------- Broken sites --------------------!
+discordapp.com##.connecting
 !---------------------- A few allowed ads ---------------!
 @@||projectwonderful.com^$image,ping
