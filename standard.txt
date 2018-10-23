@@ -31,6 +31,8 @@ imgur.com###extended-imagelist .posts
 ! Block main page gallery but not search results
 imgur.com##.sentence-sorting + .panel > #imagelist.home-gallery
 imgur.com###top-comments
+imgur.com##.FastGrid .Post-item
+imgur.com##.TrendingTags
 stackoverflow.com###hot-network-questions
 stackexchange.com###hot-network-questions
 !----------------- Interference --------------!
