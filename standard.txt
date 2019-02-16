@@ -35,6 +35,8 @@ imgur.com##.FastGrid .Post-item
 imgur.com##.TrendingTags
 ! Stack Overflow and friends
 ###hot-network-questions
+! Remove Stack Overflow "items in review queue" red dot
+##body.question-page .top-bar .review-button-item
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
 ||library.municode.com/scripts/ZeroClipboard.js
