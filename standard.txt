@@ -24,6 +24,8 @@ tumblr.com###tumblr_controls
 linkedin.com###suggested-endorsements
 ! FFS Wikipedia, don't act so desperate, you're doing fine.
 wikipedia.org###centralNotice.cn-fundraising
+! Useless sidebar, mostly ads
+spanishdict.com##.sidebar-container-video
 !----------------- Distractions --------------!
 ! Imgur keeps changing their markup...
 imgur.com###side-gallery
