@@ -39,6 +39,8 @@ imgur.com##.TrendingTags
 ###hot-network-questions
 ! Remove Stack Overflow "items in review queue" red dot
 ##body.question-page .top-bar .review-button-item
+! Youtube: Suggested videos on main page
+www.youtube.com##ytd-browse[page-subtype=home]
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
 ||library.municode.com/scripts/ZeroClipboard.js
