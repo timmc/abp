@@ -67,7 +67,6 @@ deviantart.com#a(href=http://my.deviantart.com/services/?page=subscription)
 ||pinterest.com^$third-party
 ||reddit.com/static/button/button1.js?*
 ||stumbleupon.com^$third-party
-||gravatar.com^$third-party
 !---------------------- Tracking ------------------------!
 ||google-analytics.com^$third-party
 ||edge.quantserve.com
