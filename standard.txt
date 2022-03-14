@@ -82,3 +82,7 @@ www.wired.com###veil
 discordapp.com##.connecting
 !---------------------- A few allowed ads ---------------!
 @@||projectwonderful.com^$image,ping
+
+!---------------------- Exceptions ----------------------!
+! Allow CSP reports, despite EasyList maintainer's opinions
+@@||report-uri.com^$other
