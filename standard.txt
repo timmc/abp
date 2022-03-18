@@ -49,16 +49,12 @@ flickr.com##.spaceball
 uvacreditunion.org#a(href^=javascript:displayAd2)
 deviantart.com#a(href=http://my.deviantart.com/services/?page=subscription)
 !---------------------- Social media crap ------------------------!
-||twimg.com^
-@@||twimg.com^$domain=twitter.com
 ||friendconnect.gmodules.com^
 ||facebook.com$domain=~facebook.com
 ||fbcdn.net$domain=~facebook.com
 ||facebook.net$domain=~facebook.com
 ||sharethis.com^$third-party
 ||addthis.com^$third-party
-! Allow Twitter third-party for embedding and for image/video downloading
-! ||twitter.com^$third-party
 |http://www.google.com/buzz/*$third-party
 ||addtoany.com^$third-party
 ||buzzfeed.com^$third-party
