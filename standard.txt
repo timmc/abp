@@ -57,7 +57,8 @@ deviantart.com#a(href=http://my.deviantart.com/services/?page=subscription)
 ||facebook.net$domain=~facebook.com
 ||sharethis.com^$third-party
 ||addthis.com^$third-party
-||twitter.com^$third-party
+! Allow Twitter third-party for embedding and for image/video downloading
+! ||twitter.com^$third-party
 |http://www.google.com/buzz/*$third-party
 ||addtoany.com^$third-party
 ||buzzfeed.com^$third-party
