@@ -35,6 +35,7 @@ imgur.com##.sentence-sorting + .panel > #imagelist.home-gallery
 imgur.com###top-comments
 imgur.com##.FastGrid .Post-item
 imgur.com##.TrendingTags
+imgur.com##.BottomRecirc
 ! Stack Overflow and friends
 ###hot-network-questions
 ! Remove Stack Overflow "items in review queue" red dot
