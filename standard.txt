@@ -30,6 +30,7 @@ spanishdict.com##.sidebar-container-video
 ! Imgur keeps changing their markup...
 imgur.com###side-gallery
 imgur.com###extended-imagelist .posts
+imgur.com##.Gallery-Sidebar-Wrapper
 ! Block main page gallery but not search results
 imgur.com##.sentence-sorting + .panel > #imagelist.home-gallery
 imgur.com###top-comments
