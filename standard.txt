@@ -26,7 +26,9 @@ linkedin.com###suggested-endorsements
 wikipedia.org###centralNotice.cn-fundraising
 ! Useless sidebar, mostly ads
 spanishdict.com##.sidebar-container-video
-!----------------- Distractions --------------!
+! Floating video, horrible
+leaf.tv##.forest-bird-promo
+!----------------- "See more" ---------------!
 ! Imgur keeps changing their markup...
 imgur.com###side-gallery
 imgur.com###extended-imagelist .posts
@@ -37,12 +39,15 @@ imgur.com###top-comments
 imgur.com##.FastGrid .Post-item
 imgur.com##.TrendingTags
 imgur.com##.BottomRecirc
+cooking.nytimes.com###recirculationBandMount
+cooking.nytimes.com##.recipe-more
 ! Stack Overflow and friends
 ###hot-network-questions
-! Remove Stack Overflow "items in review queue" red dot
-##body.question-page .top-bar .review-button-item
 ! Youtube: Suggested videos on main page
 www.youtube.com##ytd-browse[page-subtype=home]
+!----------- Extraneous notifications --------!
+! Remove Stack Overflow "items in review queue" red dot
+##body.question-page .top-bar .review-button-item
 !--------------- Trying too hard -------------!
 ! Craigslist offers results outside your explicit search radius
 craigslist.org##li.nearby-separator ~ li.cl-search-result
