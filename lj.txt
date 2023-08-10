@@ -1,6 +1,0 @@
-[Adblock Plus 1.1]
-! Remove LJ user agreement modal
-! Expires: 2 days (update frequency)
-!
-livejournal.com##.rutos
-livejournal.com##.b-fader
