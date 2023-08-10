@@ -42,6 +42,9 @@ imgur.com##.BottomRecirc
 ##body.question-page .top-bar .review-button-item
 ! Youtube: Suggested videos on main page
 www.youtube.com##ytd-browse[page-subtype=home]
+!--------------- Trying too hard -------------!
+! Craigslist offers results outside your explicit search radius
+craigslist.org##li.nearby-separator ~ li.cl-search-result
 !----------------- Interference --------------!
 |http://www.wired.com/js/auto_print.js
 ||library.municode.com/scripts/ZeroClipboard.js
